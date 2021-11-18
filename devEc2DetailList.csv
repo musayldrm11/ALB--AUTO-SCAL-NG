@@ -1,3 +1,0 @@
-#TYPE System.Management.Automation.PSCustomObject
-"Name","InstanceID","PrivateIP"
-"musatest3","i-025cb439160bdf019","172.31.39.163"
